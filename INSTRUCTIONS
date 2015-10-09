@@ -1,0 +1,13 @@
+rows and columns: input
+random strings (3 chars (a - z))
+generate row by column grid
+
+options:
+1. print - print lang ulit ang grid
+2. edit
+3. search
+
+2. edit row column
+enter value: 
+3.enter search param(search sa loob ng grid)
+ilan occurences at coordinates
